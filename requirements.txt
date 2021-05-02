@@ -1,5 +1,5 @@
 # web_widget_bokeh_chart
 bokeh==1.1.0
 # web_widget_mpld3_chart
-matplotlib==3.0.3 or matplotlib==3.4.1
+matplotlib ==3.0.3 or ==3.4.1
 mpld3==0.3
